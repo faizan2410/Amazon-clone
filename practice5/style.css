@@ -1,0 +1,24 @@
+h1{
+    text-align: center;
+}
+div{
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+    border: 2px solid black;
+    display: inline-block;
+}
+#box1{
+    background-color: rgb(211, 164, 164);
+    background-image: url(panda-photo.jpg);
+    background-size: cover;
+}
+#box2{
+   background-color: blueviolet;
+}
+#box3{
+    background-color: black;
+}
+#box4{
+    background-color: aqua;   
+}
